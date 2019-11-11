@@ -7,6 +7,7 @@ https://send.firefox.com/
 
 Two.  
 https://hbr.org/global-editions    
+https://www.sekorm.com/   
 tutorialpoint  
 https://www.tutorialspoint.com/powerpoint/powerpoint_adding_slide_numbers.htm   
 這八個排版秘笈，可以提高你製作PPT的專業性
