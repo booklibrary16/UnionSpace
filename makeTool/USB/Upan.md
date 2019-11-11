@@ -6,6 +6,47 @@ shiprelation001
 https://send.firefox.com/   
 
 Two.  
+https://hbr.org/global-editions    
+tutorialpoint  
+https://www.tutorialspoint.com/powerpoint/powerpoint_adding_slide_numbers.htm   
+這八個排版秘笈，可以提高你製作PPT的專業性
+https://www.bfa.com.tw/blog/8-ppt-typesetting-design-skills
+   
+https://www.free-stock-music.com/  
+资源网站
+https://www.ieltsbuddy.com/ielts-listening-test.html
+http://www.haodoo.net
+http://123.kfd.me/
+https://toolnb.com
+https://www.smule.com
+https://cp.anyknew.com
+http://sandunppt.com
+https://www.refseek.com/directory/dictionaries.html
+https://www.cnblogs.com/xuyuantao/articles/1223328.html
+http://www.onehourlife.com
+https://tgstat.com
+http://mz.soubao.net
+http://www.allitebooks.org
+http://www.vectorportal.com
+http://t.cn/RfU79XM
+https://www.usingenglish.com
+https://english.stackexchange.com
+http://wonderkun.cc/index.html
+https://github.com/toutiaoio/weekly.manong.io
+https://github.com/ruanyf/free-books
+https://github.com/Awesome-Interview/Awesome-Interview
+http://uefap.com/
+http://www.waveshare.net/study/portal.php?mod=list&catid=29
+https://www.arduino.cn/forum-86-1.html
+http://ww1.sci-hub.tv/
+https://www.intechopen.com/
+学英语：
+https://zhuanlan.zhihu.com/p/71641761
+http://www.img365.cn/
+http://www.eatbrie.com/
+https://epubw.com/
+
+Three.  
 每天早上七点半在此打卡,刷题   
 比赛 http://www.usaco.org/   
 oula https://projecteuler.net/   
