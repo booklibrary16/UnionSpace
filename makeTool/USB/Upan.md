@@ -10,6 +10,8 @@ https://hbr.org/global-editions
 https://www.sekorm.com/   
 tutorialpoint  
 https://www.tutorialspoint.com/powerpoint/powerpoint_adding_slide_numbers.htm   
+https://github.com/jwasham/coding-interview-university   
+https://sourceforge.net/    
 這八個排版秘笈，可以提高你製作PPT的專業性
 https://www.bfa.com.tw/blog/8-ppt-typesetting-design-skills
    
