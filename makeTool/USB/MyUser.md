@@ -4,7 +4,7 @@ https://projecteuler.net/      JohnPanda
 Matlab   20191120@meantinc.com     John Mike nihaoMatlab11    https://matlab.mathworks.com/       
 https://skebooks.com/reg    booker   nihaoBooker001   meantinc.com    
 mooc mooc@meantinc.com  nihaoMooc001    
-twitter1  @mean   nihaot       
+twitter*  @mean   nihaoMike99         
 
 
 
