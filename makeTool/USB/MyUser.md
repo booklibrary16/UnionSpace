@@ -8,5 +8,8 @@ twitter*  @mean   nihaoMike99
 nihaoFace!1   
 twitters  123456#
 
-goodgit@meantinc.com   nihaoHr001
-wayback@meantinc.com   nihaoWayback001
+goodgit@meantinc.com   nihaoHr001    
+wayback@meantinc.com   nihaoWayback001    
+
+tempgit@meantinc   nihaoTempgit002    
+
