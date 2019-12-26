@@ -13,3 +13,4 @@ wayback@meantinc.com   nihaoWayback001
 
 tempgit@meantinc   nihaoTempgit002    
 goodnight0@meantinc  nihaoGoodnight001     
+shiyanlou :  https://weibo.com/   :  weibo@meantinc.com   nihaoWeibo001 
