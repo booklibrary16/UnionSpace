@@ -13,4 +13,4 @@ wayback@meantinc.com   nihaoWayback001
 
 tempgit@meantinc   nihaoTempgit002    
 goodnight0@meantinc  nihaoGoodnight001     
-shiyanlou :  https://weibo.com/   :  weibo@meantinc.com   nihaoWeibo001 
+shiyanlou :  https://www.cnwml.com/free-sms-online/8616574486918.html    nihaoShiyanlou001     
