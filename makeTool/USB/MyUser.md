@@ -6,7 +6,7 @@ https://skebooks.com/reg    booker   nihaoBooker001   meantinc.com
 mooc mooc@meantinc.com  nihaoMooc001    
 twitter*  @mean   nihaoMike99         
 nihaoFace!1   
-twitters  123456#
+twitter  123456#
 
 goodgit@meantinc.com   nihaoHr001    
 wayback@meantinc.com   nihaoWayback001    
